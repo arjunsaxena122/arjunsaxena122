@@ -1,3 +1,4 @@
+<div align="center"><img  src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" height="500" width="600" /></div>
 <h1 align="center">Hi 👋, I'm Arjun Saxena</h1>
 <h3 align="center">A passionate Full-Stack Web developer from India</h3>
 
