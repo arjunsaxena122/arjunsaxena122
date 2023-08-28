@@ -1,4 +1,5 @@
-<div align="center"><img  src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" height="500" width="600" /></div>
+<hr  width="100%"/>
+<div align="center"><img  src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" height="500" width="700" /></div>
 <h1 align="center">Hi 👋, I'm Arjun Saxena</h1>
 <h3 align="center">A passionate Full-Stack Web developer from India</h3>
 
@@ -17,3 +18,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arjunsaxena122&show_icons=true&locale=en" alt="arjunsaxena122" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjunsaxena122&" alt="arjunsaxena122" /></p>
+<hr width="100%"/>
