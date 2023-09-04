@@ -1,4 +1,3 @@
-
 <hr  width="100%" />
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=arjunsaxena122&label=Profile%20views&color=0e75b6&style=flat" alt="arjunsaxena122" /> </p>
 <p align="center"> <img src="https://s3.amazonaws.com/thumbnails.venngage.com/template/b62908cb-3cf7-4ae9-8c38-46d078a11d31.png" alt="arjunsaxena122" /> </p>
@@ -15,7 +14,7 @@
 <br/>
 
 <div align="left">
-    <h3>About</h3>
+    <h3>💬 About Me</h3>
 <div/>
     
 <div align="right">
@@ -42,6 +41,12 @@
     <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,mysql,html,css,vscode,figma,git" />
 </div>
 <br/>
+
+<div>
+    <summary align="left"><h3>🔥 Contribution Graph</h3></summary>
+<br>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=arjunsaxena122&theme=github-compact" />
+</div>
     
 <br>
 <h2>🔥 Stats Cards</h2>
@@ -62,7 +67,9 @@
 </div>
 <hr>
 
-
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
 
 
 
