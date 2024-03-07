@@ -16,14 +16,14 @@
 <img align ="right" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" height="250" width="400" />
 <h3 align="left">💬 About Me </h3>
 <p># Hi there, I'm Arjun Saxena 👋</p>
-<p align="left">I'm a passionate web developer with a strong foundation in front-end and back-end technologies. My journey in the world of web development began when I was pursuing in the  B.Tech(Computer Science). Since then, I've been on an exciting and ever-evolving adventure of creating beautiful, user-friendly web experiences.
+<p align="left">I'm a passionate web developer with a strong front-end and back-end technologies foundation. My journey in web development began when I was pursuing a  B.Tech(Computer Science). Since then, I've been on an exciting and ever-evolving adventure of creating beautiful, user-friendly web experiences.
 </p>
 <br/>
 <div align="justify">
     <p align="left">
     ## 🚀 What I Do
 
-- **Front-End Development:** I specialize in crafting responsive, pixel-perfect user interfaces. HTML, CSS, and JavaScript are my daily companions, and I'm a big fan of modern frameworks like React.js.
+- **Front-End Development:** I craft responsive, pixel-perfect user interfaces. HTML, CSS, and JavaScript are my daily companions, and I'm a big fan of modern frameworks like React.js.
 
 - **Back-End Development:** I'm not just about making things look good; I also enjoy working under the hood. I'm proficient in Node.js and Express.js to build robust and scalable server-side applications.
 
