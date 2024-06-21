@@ -13,7 +13,7 @@
 <br/>
 <br/>
 
-<img align ="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40oninross%2Fdo-full-stack-developers-exist-or-are-they-just-wishful-thinking-2b7f5863af63&psig=AOvVaw1vc6zfXggCToNee-1hHI_k&ust=1719036966340000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKi1wfSF7IYDFQAAAAAdAAAAABAE" height="250" width="400" />
+<img align ="right" src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" height="250" width="400" />
 <h3 align="left">💬 About Me </h3>
 <p># Hi there, I'm Arjun Saxena 👋</p>
 <p align="left">I'm a passionate web developer with a strong front-end and back-end technologies foundation. My journey in web development began when I was pursuing a  B.Tech(Computer Science). Since then, I've been on an exciting and ever-evolving adventure of creating beautiful, user-friendly web experiences.
