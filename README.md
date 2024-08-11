@@ -9,7 +9,7 @@
 </h1>
 </div>
 
-<h3 align="center">A passionate full-stack Web/MERN developer from India</h3>
+<h3 align="center">A passionate Full-Stack Web/MERN developer from India</h3>
 <br/>
 <br/>
 
