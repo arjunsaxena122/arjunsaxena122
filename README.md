@@ -38,6 +38,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/arjunsaxena122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjunsaxena122" height="30" width="40" /></a>
 <a href="https://replit.com/@arjunsaxena4" target="blank"><img align="center" src="https://img.utdstc.com/icon/6cc/386/6cc38687d841eec9b0b17ca2270a10443afa4363cbde2fdfc3729e822c9a3196:200" alt="arjunsaxena122" height="42" width="40" /></a>  
+<a href="arjunsaxena122@gmail.com" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-512.png" alt="arjunsaxena122" height="42" width="40" /></a>  
 </p>
 
 <br/> 
