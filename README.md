@@ -1,6 +1,6 @@
 <hr  width="100%" />
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=arjunsaxena122&label=Profile%20views&color=0e75b6&style=flat" alt="arjunsaxena122" /> </p>
-<p align="center"> <img src="https://s3.amazonaws.com/thumbnails.venngage.com/template/b62908cb-3cf7-4ae9-8c38-46d078a11d31.png" alt="arjunsaxena122" /> </p>
+<p align="center"> <img src="https://media.licdn.com/dms/image/C4D16AQEXj_fkxSIkRQ/profile-displaybackgroundimage-shrink_200_800/0/1621757793308?e=2147483647&v=beta&t=nbRyR8tPCJHRVfhR_OYoDtmdtFPwZzxNFmu-VskTSxA" alt="arjunsaxena122" width="160%" /> </p>
 <div align="center">
 </div>
 <div>
