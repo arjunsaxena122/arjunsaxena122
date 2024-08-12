@@ -15,7 +15,8 @@
 
 <h3 align="left">💬 About Me </h3>
 <p># Hi there, I'm Arjun Saxena 👋</p>
-<p align="left"><span align="justify">I'm a passionate web developer with a strong front-end and back-end technologies foundation. My web development journey began while pursuing a  B.Tech(Computer Science). Since then, I've been on an exciting and ever-evolving adventure of creating beautiful, user-friendly web experiences.</span>
+<p align="left"><span align="justify">I am a passionate and dedicated web developer with a recent focus on the MERN stack (MongoDB, Express.js, React, Node.js). I completed my B.Tech in Computer Science in July 2024 and working on real-world projects that enhanced my understanding of full-stack development.
+</span>
 </p>
 <br/>
 <div align="justify">
