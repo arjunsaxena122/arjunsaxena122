@@ -15,7 +15,13 @@
 
 <h3 align="left">💬 About Me </h3>
 <p># Hi there, I'm Arjun Saxena 👋</p>
-<p align="left"><span align="justify">I am a passionate and dedicated web developer with a recent focus on the MERN stack (MongoDB, Express.js, React, Node.js) and I'm working on real-world projects that enhanced my understanding of full-stack development.
+<p align="left"><span align="justify">
+    
+- I’m a passionate web developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js), along with TypeScript and Next.js for building modern, scalable, and high-performance web applications.
+    
+- I’ve built real-world Generative AI projects using JavaScript, including AI YouTube thumbnail generators, chatbots, and browser automation tools, combining AI with web apps to create smarter experiences.
+  
+- I enjoy working on challenging projects that help me grow and push my skills in full-stack and AI-driven development.
 </span>
 </p>
 <br/>
@@ -23,13 +29,15 @@
     <p align="left">
     ## 🚀 What I Do
 
-- **Front-End Development:** I craft responsive, pixel-perfect user interfaces. HTML, CSS, and JavaScript are my daily companions, and I'm a big fan of modern frameworks like React.js.
+- **Front-End Development:** Build dynamic UIs with React.js, Next.js, TypeScript. Not focused on design, but strong in state management and frontend logic.
 
-- **Back-End Development:** I'm not just about making things look good; I also enjoy working under the hood. I'm proficient in Node.js and Express.js to build robust and scalable server-side applications.
+- **Back-End Development:** Develop scalable apps using Node.js and Express.js, with basic AWS deployment and Docker experience.
 
-- **Database Management:** Databases are the heart of any dynamic web application. I'm experienced in designing and optimizing databases using MySQL and MongoDB.
-
-- **Version Control:** Collaboration and code management are essential. I'm well-versed in using Git and GitHub for seamless version control and team collaboration.
+- **Database Management:** Worked with MongoDB, MySQL, PostgreSQL, using Prisma and Drizzle ORM.
+  
+- **Generative AI:** Built real-world projects like AI YouTube thumbnail generator, AI chatbot persona, and AI browser automation using JavaScript..
+  
+- **Version Control:** Experienced with Git and GitHub for collaboration and project management.
 </p>
 
 </div>
